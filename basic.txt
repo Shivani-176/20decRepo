@@ -1,1 +1,2 @@
 This file is in working area
+This file is in stagging area
